@@ -71,7 +71,9 @@ body{
 }
 .header-items__href{
     color:black;
-
+}
+.header-login__sign{
+    color: black;
 }
 .first-page{
     background-image: url(../img/BG.png);
