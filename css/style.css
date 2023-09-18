@@ -69,6 +69,10 @@ body{
 .header-items__href:hover{
     color: #01996D;
 }
+.header-items__href{
+    color:black;
+
+}
 .first-page{
     background-image: url(../img/BG.png);
     background-repeat: no-repeat;
