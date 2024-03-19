@@ -550,7 +550,7 @@ body{
         justify-content: flex-start;
         align-items: center;
         gap: 100px;
-        top: -1500px;
+        top: -1700px;
         left: 0;
         transition: all 0.8s;
         z-index: 100;
@@ -602,7 +602,7 @@ body{
         z-index: 1500;
     }
     .header-box{
-        max-width: 250px;
+        max-width: 220px;
     }
     .video-box-play iframe{
         max-width:320px;
